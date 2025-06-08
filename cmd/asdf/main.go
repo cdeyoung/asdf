@@ -6,7 +6,7 @@ import (
 	"runtime/debug"
 	"slices"
 
-	"github.com/asdf-vm/asdf/internal/cli"
+	"github.com/cdeyoung/asdf/internal/cli"
 )
 
 // Do not touch this next line
