@@ -1,4 +1,4 @@
-module github.com/asdf-vm/asdf
+module github.com/cdeyoung/asdf
 
 go 1.23
 
